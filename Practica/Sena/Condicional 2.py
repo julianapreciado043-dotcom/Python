@@ -4,4 +4,4 @@ if (gender == "M" and name.lower() < 'm') or (gender == "H" and name.lower() > '
     group = "A"
 else:
     group = "B"
-print("Tu grupo es" + group)
+print("Tu grupo es " + group)
